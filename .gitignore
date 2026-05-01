@@ -1,0 +1,12 @@
+# Dependencies
+node_modules
+package-lock.json
+
+# Test reports and results
+playwright-report
+test-results
+allure-results
+results.xml
+
+# Environment variables
+.env
